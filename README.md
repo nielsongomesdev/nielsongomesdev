@@ -4,9 +4,10 @@
   <tr>
     <td align="center"> <a href="https://instagram.com/niel_songomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </td>
-    <td align="center"><a href="SEU_LINK_DO_LINKEDIN">LINKEDIN</a></td>
-    <td align="center"><a href="https://www.instagram.com/niel_songomes/">INSTAGRAM</a></td>
-    <td align="center"><a href="nielsongomes16@gmail.com">EMAIL</a></td>
+    <td align="center"><a href="https://" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</td>
+    <td align="center"><a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> </td>
+    <td align="center"><a href = "mailto:nielsongomes16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></td>
   </tr>
 </table>
 
