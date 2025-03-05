@@ -27,5 +27,8 @@ My name is Nielson and I'm developer.
 
 ## GitHub Analytics
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=dark)](https://github.com/nielsongomesdev)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&theme=dark)](https://github.com/nielsongomesdev)
+<div>
+   <a href="https://github.com/nielsongomesdev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
