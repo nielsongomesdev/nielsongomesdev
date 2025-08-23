@@ -8,7 +8,7 @@
   <tr>
     <td align="center"> <a href="https://instagram.com/niel_songomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     </td>
-    <td align="center"><a href="https://www.linkedin.com/in/nielson-gomes-29a8a2349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <td align="center"><a href="https://www.linkedin.com/in/nielson-gomes-2a3b4a1b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </td>
     <td align="center"><a href="https://discord.com/users/755883191129342084" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> </td>
     <td align="center"><a href = "mailto:nielsongomes16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></td>
@@ -18,10 +18,6 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
 ### Olá! Eu sou o Nielson 👋
 
 Sou um estudante do 3º período de Sistemas para Internet, apaixonado por tecnologia e com um grande desejo de aprender. Já possuo conhecimentos sólidos nas tecnologias fundamentais do front-end — HTML, CSS, JavaScript e TypeScript — e, atualmente, estou focado em aprofundar minhas habilidades com React.
@@ -29,15 +25,6 @@ Sou um estudante do 3º período de Sistemas para Internet, apaixonado por tecno
 * 🌎 **Localização:** Guarabira, Paraíba, Brasil
 * 🎓 **Formação:** Cursando o terceiro período de Sistemas para Internet
 * 🚀 **Foco Atual:** Dominar React com TypeScript, construindo meus primeiros projetos para colocar todo o aprendizado em prática.
-
-</td>
-<td valign="top" width="40%" align="center">
-
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" alt="GIF de um programador codificando" width="100%">
-
-</td>
-  </tr>
-</table>
 
 ---
 
