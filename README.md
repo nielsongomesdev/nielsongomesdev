@@ -2,6 +2,7 @@
 
 *Desenvolvedor Front-end*
 
+<div align="center">
 <table>
   <tr>
     <td align="center"> <a href="https://instagram.com/niel_songomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,6 +13,7 @@
     <td align="center"><a href = "mailto:nielsongomes16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -27,6 +29,8 @@ Olá! 👋 Sou Nielson, um estudante do terceiro período de Sistemas para Inter
 
 ### 🛠️ Tecnologias e Ferramentas
 
+<div align="center">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,12 +38,25 @@ Olá! 👋 Sou Nielson, um estudante do terceiro período de Sistemas para Inter
 ![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23FCA121.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</div>
+
+---
+
+### 📈 Metodologias Ágeis
+
+<div align="center">
+
+![Scrum](https://img.shields.io/badge/scrum-%2378D0F5.svg?style=for-the-badge&logo=scrum&logoColor=black)
+
+</div>
 
 ---
 
 ### GitHub Analytics
 
-<div>
+<div align="center">
    <a href="https://github.com/nielsongomesdev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&langs_count=6&theme=tokyonight"/>
