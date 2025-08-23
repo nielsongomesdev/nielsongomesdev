@@ -1,34 +1,46 @@
 # Nielson Gomes
 
+*Desenvolvedor Front-end*
+
 <table>
-  <tr>
-    <td align="center"> <a href="https://instagram.com/niel_songomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    </td>
-    <td align="center"><a href="https://www.linkedin.com/in/nielson-gomes-29a8a2349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    </td>
-    <td align="center"><a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> </td>
-    <td align="center"><a href = "mailto:nielsongomes16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></td>
-  </tr>
+  <tr>
+    <td align="center"> <a href="https://instagram.com/niel_songomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    </td>
+    <td align="center"><a href="https://www.linkedin.com/in/nielson-gomes-29a8a2349/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    </td>
+    <td align="center"><a href="https://discord.com/users/755883191129342084" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> </td>
+    <td align="center"><a href = "mailto:nielsongomes16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></td>
+  </tr>
 </table>
 
-## Hi guys
+---
 
-My name is Nielson and I'm developer.
+### Sobre Mim
 
-* 🌎 I'm from Guarabira, Paraíba, Brazil
-* 💙 In love with Technology
-* 🎓 internet systems student
+Olá! 👋 Sou Nielson, um estudante do terceiro período de Sistemas para Internet. Desde que comecei a programar, me apaixonei pela capacidade da tecnologia de transformar ideias em realidade. Atualmente, estou focado em me especializar no desenvolvimento Front-end, construindo projetos que sejam não apenas funcionais, mas também intuitivos e agradáveis de usar.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+* 🌎 **Localização:** Guarabira, Paraíba, Brasil
+* 🎓 **Formação:** Cursando o terceiro período de Sistemas para Internet
+* 🚀 **Foco Atual:** Aprimorar minhas habilidades no ecossistema React e construir um portfólio de alto impacto.
 
-## GitHub Analytics
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### GitHub Analytics
 
 <div>
-   <a href="https://github.com/nielsongomesdev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/nielsongomesdev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
