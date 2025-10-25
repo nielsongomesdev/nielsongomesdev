@@ -18,11 +18,12 @@
 
 ### Olá! Eu sou o Nielson 👋
 
-Sou um estudante do 3º período de Sistemas para Internet, apaixonado por tecnologia e com um grande desejo de aprender. Já possuo conhecimentos sólidos nas tecnologias fundamentais do front-end — HTML, CSS, JavaScript e TypeScript — e, atualmente, estou focado em aprofundar minhas habilidades com React e Next.js.
+Sou estudante do 3º período de Sistemas para Internet, focado no ecossistema JavaScript. Tenho uma base sólida em front-end (HTML, CSS, JavaScript) e tenho conhecimentos com TypeScript, React e o framework Next.js.
+
+Atualmente, estou expandindo meus conhecimentos para o back-end, com foco em **Node.js** (incluindo Express e Prisma) para a construção de APIs REST.
 
 * 🌎 **Localização:** Guarabira, Paraíba, Brasil
-* 🎓 **Formação:** Cursando o terceiro período de Sistemas para Internet
-* 🚀 **Foco Atual:** Dominar React e Next.js com TypeScript, construindo projetos práticos para solidificar o aprendizado.
+* 🚀 **Objetivo:** Buscando ativamente minha primeira oportunidade (Estágio ou Júnior) em Desenvolvimento Web.
 
 ---
 
@@ -30,7 +31,7 @@ Sou um estudante do 3º período de Sistemas para Internet, apaixonado por tecno
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,git,gitlab" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,prisma,vite,git,github" />
   </a>
 </div>
 
