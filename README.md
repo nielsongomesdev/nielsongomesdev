@@ -1,29 +1,37 @@
 <div align="center">
-  <h1>Front-end Developer</h1>
+  <h1>Fullstack Developer</h1>
 </div>
+
+<!-- ⌨️ Animação digitando -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2F+Node.js;Sempre+aprendendo+mais" />
+</p>
+
 <br>
 
 <div align="center">
 <table>
   <tr>
-    <td align="center"><a href="https://instagram.com/niel_songomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/nielson-gomes-29a8a2349" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></td>
-    <td align="center"><a href="https://discord.com/users/755883191129342084" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a></td>
-    <td align="center"><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nielsongomes16@gmail.com&su=Contato%20pelo%20GitHub" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a></td>
+    <td align="center"><a href="https://instagram.com/niel_songomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/nielson-gomes-29a8a2349" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
+    <td align="center"><a href="https://discord.com/users/755883191129342084" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a></td>
+    <td align="center"><a href="mailto:nielsongomes16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
   </tr>
 </table>
 </div>
 
 ---
 
-### Olá! Eu sou o Nielson 👋
+### 👋 Olá! Eu sou o Nielson
 
-Sou estudante do 3º período de Sistemas para Internet, focado no ecossistema JavaScript. Tenho uma base sólida em front-end (HTML, CSS, JavaScript) e tenho conhecimentos com TypeScript, React e o framework Next.js.
+Sou estudante do 3º período de Sistemas para Internet e desenvolvedor focado no ecossistema JavaScript.  
+Tenho forte base no **front-end** (HTML, CSS, JavaScript) e experiência com **TypeScript**, **React**, **Next.js** e **Vite**.  
 
-Atualmente, estou expandindo meus conhecimentos para o back-end, com foco em **Node.js** (incluindo Express e Prisma) para a construção de APIs REST.
+No **back-end**, trabalho com **Node.js**, **Express**, **Prisma**, **Docker**, **SQL** e **MongoDB**, criando APIs REST e aplicações completas.
 
-* 🌎 **Localização:** Guarabira, Paraíba, Brasil
-* 🚀 **Objetivo:** Buscando ativamente minha primeira oportunidade (Estágio ou Júnior) em Desenvolvimento Web.
+💼 **Objetivo:** Buscando minha primeira oportunidade (Estágio ou Júnior) em Desenvolvimento Web  
+🌎 **Localização:** Guarabira – PB, Brasil  
+📚 **Em breve:** iniciando estudos em **Java** e **AWS**
 
 ---
 
@@ -31,7 +39,7 @@ Atualmente, estou expandindo meus conhecimentos para o back-end, com foco em **N
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,prisma,vite,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,prisma,docker,mongodb,postgresql,vite,git,github" />
   </a>
 </div>
 
@@ -41,7 +49,7 @@ Atualmente, estou expandindo meus conhecimentos para o back-end, com foco em **N
 
 <div align="center">
   <a href="https://github.com/nielsongomesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&theme=tokyonight"/>
   </a>
 </div>
