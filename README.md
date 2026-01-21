@@ -2,7 +2,6 @@
   <h1>Fullstack Developer</h1>
 </div>
 
-<!-- ⌨️ Animação digitando -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2F+Node.js;Sempre+aprendendo+mais" />
 </p>
@@ -49,7 +48,7 @@ No **back-end**, trabalho com **Node.js**, **Express**, **Prisma**, **Docker**, 
 
 <div align="center">
   <a href="https://github.com/nielsongomesdev">
-    <img height="180em" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&theme=tokyonight"/>
   </a>
 </div>
