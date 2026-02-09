@@ -23,7 +23,7 @@
 
 ### 👋 Olá! Eu sou o Nielson
 
-Sou estudante do 3º período de Sistemas para Internet e desenvolvedor focado no ecossistema JavaScript.  
+Sou estudante do 4º período de Sistemas para Internet e desenvolvedor focado no ecossistema JavaScript.  
 Tenho forte base no **front-end** (HTML, CSS, JavaScript) e experiência com **TypeScript**, **React**, e **Next.js**.  
 
 No **back-end**, trabalho com **Node.js**, **Express**, **Prisma**, **Docker**, **SQL** e **MongoDB**, criando APIs REST e aplicações completas.
