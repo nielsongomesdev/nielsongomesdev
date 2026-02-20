@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>Fullstack Developer</h1>
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2F+Node.js;Sempre+aprendendo+mais" />
 </p>
@@ -28,7 +24,6 @@ Tenho forte base no **front-end** (HTML, CSS, JavaScript) e experiência com **T
 
 No **back-end**, trabalho com **Node.js**, **Express**, **Prisma**, **Docker**, **SQL** e **MongoDB**, criando APIs REST e aplicações completas.
 
-💼 **Objetivo:** Buscando minha primeira oportunidade (Estágio ou Júnior) em Desenvolvimento Web  
 🌎 **Localização:** Guarabira – PB, Brasil  
 📚 **Em breve:** iniciando estudos em **Java** e **AWS**
 
