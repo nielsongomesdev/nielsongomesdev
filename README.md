@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2F+Node.js;Sempre+aprendendo+mais" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Nielson+Gomes" />
 </p>
 
 <br>
