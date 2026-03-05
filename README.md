@@ -19,8 +19,8 @@
 
 ### 👋 Olá! Eu sou o Nielson
 
-Sou estudante do 4º período de Sistemas para Internet e desenvolvedor focado no ecossistema JavaScript/TypeScript.  
-Tenho forte base no **front-end** (HTML, CSS, JavaScript) e experiência sólida com **React** e **Next.js**.  
+Desenvolvedor Full Stack focado no ecossistema JavaScript/TypeScript.  
+experiência sólida com **React** e **Next.js**.  
 
 No **back-end**, trabalho com **Node.js**, **Express**, **Prisma**, **Docker**, **SQL** e **MongoDB**, criando APIs REST e aplicações completas. Sempre busco aplicar conceitos de **arquitetura em camadas** para garantir projetos modulares, escaláveis e de fácil manutenção. 
 
