@@ -1,50 +1,62 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Nielson+Gomes" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00A8FF&center=true&vCenter=true&width=435&lines=Nielson+Gomes" alt="Animação digitando Nielson Gomes" />
+</div>
 
 <br>
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center"><a href="https://instagram.com/niel_songomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/nielsongomesdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
-    <td align="center"><a href="https://discord.com/users/755883191129342084" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a></td>
-    <td align="center"><a href="mailto:nielsongomes16@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a></td>
-  </tr>
-</table>
+  <a href="https://instagram.com/niel_songomes/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram do Nielson">
+  </a>
+  <a href="https://www.linkedin.com/in/nielsongomesdev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Nielson">
+  </a>
+  <a href="https://discord.com/users/755883191129342084" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord do Nielson">
+  </a>
+  <a href="mailto:nielsongomes16@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail do Nielson">
+  </a>
 </div>
 
 ---
 
 ### 👋 Olá! Eu sou o Nielson
 
-Desenvolvedor Full Stack focado no ecossistema JavaScript/TypeScript.  
-experiência sólida com **React** e **Next.js**.  
+Sou um Desenvolvedor Full Stack focado no ecossistema JavaScript/TypeScript. Tenho **experiência prática** no desenvolvimento de interfaces, atuando desde a abstração e prototipação no **Figma** até a implementação de código com **React** e **Next.js**.  
 
-No **back-end**, trabalho com **Node.js**, **Fastify**, **Prisma**, **Docker**, **SQL** e **MongoDB**, criando APIs REST e aplicações completas. Sempre busco aplicar conceitos de **arquitetura em camadas** para garantir projetos modulares, escaláveis e de fácil manutenção. 
+No **back-end**, desenvolvo APIs REST e aplicações utilizando **Node.js**, **Express** e **Fastify**, operando em conjunto com o ORM **Prisma**.  
 
-Atualmente, estou expandindo meus conhecimentos em **Java** e **AWS**.
+Para armazenamento e infraestrutura, utilizo bancos de dados **SQL** e **MongoDB**, além de ferramentas como **Docker** para gerenciar os ambientes e garantir entregas consistentes.
 
+🎯 **Meu Foco:** Sempre busco aplicar conceitos de **arquitetura em camadas** para garantir projetos modulares, escaláveis e de fácil manutenção.  
+🌱 **Aprendendo:** Atualmente, estou expandindo meus conhecimentos em **Java** e **AWS**.  
 🌎 **Localização:** Guarabira – PB, Brasil  
 
 ---
 
-###  Stack 
+### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,prisma,docker,mongodb,postgresql,vite,git,github" />
-  </a>
+  <p><strong>Front-end & Design</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma" alt="Ícones de Front-end e Design" />
+  <br><br>
+  
+  <p><strong>Back-end & Banco de Dados</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgresql" alt="Ícones de Back-end e Banco de Dados" />
+  <br><br>
+  
+  <p><strong>Infraestrutura & Ferramentas</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,vite,git,github" alt="Ícones de Infraestrutura e Ferramentas" />
 </div>
 
 ---
 
-### 📊  Estatísticas
-
 <div align="center">
-  <a href="https://github.com/nielsongomesdev">
-    <img src="https://streak-stats.demolab.com?user=nielsongomesdev&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nielsongomesdev&theme=tokyonight"/>
+  <a href="https://github.com/nielsongomesdev" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=nielsongomesdev&theme=tokyonight" alt="Estatísticas de sequência de commits do Nielson"/>
+  </a>
+  <a href="https://github.com/nielsongomesdev" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nielsongomesdev&theme=tokyonight" alt="Detalhes do perfil do Nielson"/>
   </a>
 </div>
