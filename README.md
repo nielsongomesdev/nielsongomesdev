@@ -22,7 +22,7 @@
 Desenvolvedor Full Stack focado no ecossistema JavaScript/TypeScript.  
 experiência sólida com **React** e **Next.js**.  
 
-No **back-end**, trabalho com **Node.js**, **Express**, **Prisma**, **Docker**, **SQL** e **MongoDB**, criando APIs REST e aplicações completas. Sempre busco aplicar conceitos de **arquitetura em camadas** para garantir projetos modulares, escaláveis e de fácil manutenção. 
+No **back-end**, trabalho com **Node.js**, **Fastify**, **Prisma**, **Docker**, **SQL** e **MongoDB**, criando APIs REST e aplicações completas. Sempre busco aplicar conceitos de **arquitetura em camadas** para garantir projetos modulares, escaláveis e de fácil manutenção. 
 
 Atualmente, estou expandindo meus conhecimentos em **Java** e **AWS**.
 
