@@ -54,9 +54,10 @@ Para armazenamento e infraestrutura, utilizo bancos de dados **SQL** e **MongoDB
 
 <div align="center">
   <a href="https://github.com/nielsongomesdev" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Nielson" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nielsongomesdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Nielson" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/nielsongomesdev" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas pelo Nielson" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nielsongomesdev&layout=compact&theme=tokyonight" alt="Linguagens mais usadas pelo Nielson" />
   </a>
 </div>
