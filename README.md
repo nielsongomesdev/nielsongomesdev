@@ -8,14 +8,6 @@
   <a href="mailto:nielsongomes16@gmail.com"><img src="https://img.shields.io/badge/E--mail-18181b?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="E-mail" /></a>
 </p>
 
-## Sobre mim
-
-Desenvolvedor Full Stack com atuação em sistemas internos e PWAs, do levantamento de requisitos à implantação, com React, Next.js, TypeScript, Node.js e PostgreSQL/Supabase.
-
-- **Segurança:** autenticação, permissões e Row Level Security, seguindo boas práticas e a LGPD.
-- **Formação:** formado em Sistemas para Internet pela Unipê e estudante de Engenharia de Software.
-- **Em aprofundamento:** AWS, em constante evolução.
-
 ## Stack
 
 <p align="center">
@@ -30,35 +22,6 @@ Desenvolvedor Full Stack com atuação em sistemas internos e PWAs, do levantame
   <sub>FERRAMENTAS</sub><br />
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vitest" alt="Git, GitHub, GitLab, Docker, Vitest" />
 </p>
-
-## Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>TechStation E-commerce</strong><br />
-      <sub>Loja virtual de hardware de alta performance e setups completos.</sub><br /><br />
-      <a href="https://techstation-ecommerce.vercel.app/">Site</a> · <a href="https://github.com/nielsongomesdev/techstation-ecommerce">Código</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>MFRP · Gestão de lanchonete</strong><br />
-      <sub>Sistema de pedidos, caixa e administração para uma lanchonete.</sub><br /><br />
-      <a href="https://mfrp-ten.vercel.app/login">Site</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>S&amp;M PsyBookings</strong><br />
-      <sub>Landing page para uma agência de bookings de psytrance.</sub><br /><br />
-      <a href="https://sm-psybookings.com/">Site</a> · <a href="https://github.com/nielsongomesdev/SM-PsyBookings">Código</a>
-    </td>
-    <td width="50%" valign="top">
-      <strong>GitHub Search</strong><br />
-      <sub>Busca de usuários e repositórios consumindo a API pública do GitHub.</sub><br /><br />
-      <a href="https://github-search-test-three.vercel.app/">Site</a> · <a href="https://github.com/nielsongomesdev/github-search-test">Código</a>
-    </td>
-  </tr>
-</table>
 
 ## Atividade no GitHub
 
