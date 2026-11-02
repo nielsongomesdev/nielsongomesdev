@@ -10,12 +10,11 @@
 
 ## Sobre mim
 
-Desenvolvedor Full Stack na **Bloco Construções**, onde desenvolvo e mantenho sistemas internos e PWAs para diferentes áreas da empresa, do levantamento de requisitos à implantação.
+Desenvolvedor Full Stack com atuação em sistemas internos e PWAs, do levantamento de requisitos à implantação, com React, Next.js, TypeScript, Node.js e PostgreSQL/Supabase.
 
-- **IA nos produtos:** separação automática de contracheques, lembretes de pagamento por WhatsApp e central de chamados com IA.
 - **Segurança:** autenticação, permissões e Row Level Security, seguindo boas práticas e a LGPD.
-- **Formação:** formado em Sistemas para Internet pela Unipê e cursando Engenharia de Software.
-- **Em aprofundamento:** AWS.
+- **Formação:** formado em Sistemas para Internet pela Unipê e estudante de Engenharia de Software.
+- **Em aprofundamento:** AWS, em constante evolução.
 
 ## Stack
 
